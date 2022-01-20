@@ -1,2 +1,0 @@
-# JaiWebDLearn
-Geekhaven webd tasks
